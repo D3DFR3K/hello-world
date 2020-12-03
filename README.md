@@ -1,4 +1,6 @@
 # hello-world
-Just another repository
-Hello my name is L0K1 and im typing this because im learning about github
-I want to become a better hacker extreamly novice other wise but i learn quick.
+IM L0K1
+Im typing this because im learning about github
+I want to become a better hacker extreamly novice but i learn quick.
+Any tips for beginners that you would like to share? 
+currently learning Kali Linux
